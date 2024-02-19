@@ -22,7 +22,7 @@ If **during this time the Ctrl key will be pressed**, the preview would not be h
 **add a 'comment' to the file name** that will appended to the screenshot file number. Such a comment may be also added to 
 the last taken screenshot by pressing the Preview hotkey or selecting this item from the main menu in the system tray.
 
-## Installation and execution
+## Installation and Execution
 
 Application **does not require any special installation** and may be run directly from any location.
 It's holding its configuration parameters in the system registry in the key **HKEY_CURRENT_USER\Software\ScreenShooter**
