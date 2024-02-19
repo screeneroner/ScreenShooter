@@ -2,6 +2,8 @@
 
 This app is used to **quickly take screenshot** of an area that may be **all or only one monitors or the active window only**.
 
+![System Tray Menu](/SystemTrayMenu.png)
+
 ## Take Screenshoot
 Which area you will take is set from the **main app menu, invoked by the right click on the app icon** in the system tray.
 From the same menu you may set and open a folder with screenshots, and make some actions on the last taken screenshot. 
