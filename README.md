@@ -1,6 +1,6 @@
 # ScreenShooter
 
-This app is used to **quickly take screenshot** of an area that may be **all or only one monitors or the active window**.
+This app is used to **quickly take screenshot** of an area that may be **all or only one monitors or the active window only**.
 
 ![System Tray Menu](/SystemTrayMenu.png) ![Configuration](/Configuration.png)
 
